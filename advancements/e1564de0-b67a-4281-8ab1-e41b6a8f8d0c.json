@@ -1,13 +1,13 @@
 {
-  "minecraft:recipes/building_blocks/light_blue_wool": {
+  "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-04-04 21:59:36 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_wool": {
+  "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
-      "has_white_wool": "2020-04-04 21:59:36 +0900"
+      "has_quartz_block": "2020-04-05 20:55:37 +0900"
     },
     "done": true
   },
@@ -17,27 +17,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/redstone/lever": {
     "criteria": {
-      "entered_water": "2020-04-04 21:57:54 +0900"
+      "has_cobblestone": "2020-04-05 21:04:18 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pink_wool": {
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
-      "has_white_wool": "2020-04-04 21:59:36 +0900"
+      "has_cobblestone": "2020-04-05 21:04:18 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
-      "has_egg": "2020-04-04 21:51:33 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_wool": {
-    "criteria": {
-      "has_white_wool": "2020-04-04 21:59:36 +0900"
+      "has_smooth_stone": "2020-04-05 21:01:37 +0900"
     },
     "done": true
   },
@@ -71,9 +65,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_carpet": {
+  "minecraft:recipes/building_blocks/stone": {
     "criteria": {
-      "has_white_wool": "2020-04-04 21:59:36 +0900"
+      "has_cobblestone": "2020-04-05 21:04:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2020-04-05 21:04:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2020-04-05 20:54:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2020-04-05 20:54:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2020-04-05 21:04:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2020-04-05 20:54:21 +0900"
     },
     "done": true
   },
@@ -85,7 +109,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "plains": "2020-04-04 21:49:47 +0900"
+      "minecraft:plains": "2020-04-04 21:49:47 +0900"
     },
     "done": false
   },
@@ -101,9 +125,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
-      "entered_water": "2020-04-04 21:57:54 +0900"
+      "has_stone_bricks": "2020-04-05 20:54:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-04-05 21:04:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2020-04-05 21:01:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2020-04-05 20:54:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2020-04-06 01:00:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-04-05 21:13:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2020-04-05 21:04:18 +0900"
     },
     "done": true
   },
@@ -113,37 +173,37 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_wool": {
+  "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
-      "has_white_wool": "2020-04-04 21:59:36 +0900"
+      "has_quartz_block": "2020-04-05 20:55:37 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
-      "entered_water": "2020-04-04 21:57:54 +0900"
+      "has_quartz_block": "2020-04-05 20:55:37 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_wool": {
+  "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
-      "has_white_wool": "2020-04-04 21:59:36 +0900"
+      "has_cobblestone": "2020-04-05 21:04:18 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_banner": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "has_white_wool": "2020-04-04 21:59:36 +0900"
+      "has_snowball": "2020-04-06 01:01:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2020-04-05 21:04:18 +0900"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cyan_wool": {
-    "criteria": {
-      "has_white_wool": "2020-04-04 21:59:36 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2020-04-04 21:59:36 +0900"
     },
@@ -155,22 +215,167 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/boat": {
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
-      "entered_water": "2020-04-04 21:57:54 +0900"
+      "has_cobblestone": "2020-04-05 21:04:18 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
-      "entered_water": "2020-04-04 21:57:54 +0900"
+      "has_stone_bricks": "2020-04-05 20:54:21 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
-      "entered_water": "2020-04-04 21:57:54 +0900"
+      "has_white_wool": "2020-04-04 21:59:36 +0900"
     },
     "done": true
-  }
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2020-04-05 21:04:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2020-04-05 21:04:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-04-05 20:55:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2020-04-04 21:59:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-04-04 21:51:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2020-04-04 21:59:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-04-05 20:55:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2020-04-05 20:54:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2020-04-04 21:59:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2020-04-05 21:04:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-04-05 20:55:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2020-04-05 20:55:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2020-04-05 21:04:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2020-04-05 20:54:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-04-05 20:55:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2020-04-05 20:55:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2020-04-04 21:59:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2020-04-04 21:59:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2020-04-04 21:59:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-04-06 01:01:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2020-04-04 21:59:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2020-04-05 21:04:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2020-04-05 20:54:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2020-04-05 21:01:37 +0900"
+    },
+    "done": true
+  },
+  "DataVersion": 1976
 }
