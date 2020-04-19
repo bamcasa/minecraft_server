@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2020-04-19 21:06:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2020-04-05 21:54:44 +0900"
@@ -179,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-19 22:15:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2020-04-06 01:00:02 +0900"
@@ -200,6 +212,12 @@
   "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-04-06 22:40:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2020-04-19 21:06:32 +0900"
     },
     "done": true
   },
@@ -269,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2020-04-19 22:18:50 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_logs": "2020-04-05 22:14:03 +0900"
@@ -278,6 +302,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-04-05 22:41:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2020-04-19 21:06:32 +0900"
     },
     "done": true
   },
@@ -308,6 +338,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-04-05 21:39:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-19 22:15:58 +0900"
     },
     "done": true
   },
@@ -353,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-04-19 21:20:16 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/composter": {
     "criteria": {
       "has_wooden_fences": "2020-04-05 21:32:26 +0900"
@@ -371,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-19 22:15:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-04-07 23:11:08 +0900"
@@ -380,6 +428,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_double_plant": "2020-04-04 21:57:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-19 22:15:58 +0900"
     },
     "done": true
   },
@@ -533,9 +587,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2020-04-19 21:49:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-04-06 22:40:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-19 22:15:58 +0900"
     },
     "done": true
   },
@@ -551,6 +617,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2020-04-19 22:18:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-19 22:15:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2020-04-09 22:36:24 +0900"
@@ -560,6 +638,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-04-06 22:56:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-19 22:15:58 +0900"
     },
     "done": true
   },
@@ -587,9 +671,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2020-04-19 21:06:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-04-05 21:40:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-19 22:15:58 +0900"
     },
     "done": true
   },
@@ -635,6 +731,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-19 22:15:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2020-04-19 21:06:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2020-04-06 01:00:02 +0900"
@@ -668,6 +776,12 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2020-04-12 21:15:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-04-19 21:06:32 +0900"
     },
     "done": true
   },
@@ -734,6 +848,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_red_flower": "2020-04-06 22:46:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-19 22:15:58 +0900"
     },
     "done": true
   },
@@ -1031,6 +1151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-04-19 21:06:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2020-04-05 23:45:10 +0900"
@@ -1040,6 +1166,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2020-04-05 23:45:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-19 22:15:58 +0900"
     },
     "done": true
   },
@@ -1085,6 +1217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-04-19 21:06:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2020-04-06 22:56:18 +0900"
@@ -1102,6 +1240,12 @@
       "minecraft:plains": "2020-04-04 21:50:26 +0900"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-19 22:15:58 +0900"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
@@ -1259,6 +1403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-19 22:15:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2020-04-04 21:53:51 +0900"
@@ -1319,6 +1469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2020-04-19 21:06:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2020-04-05 22:41:09 +0900"
@@ -1340,6 +1496,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2020-04-07 23:11:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-19 22:15:58 +0900"
     },
     "done": true
   },
@@ -1376,6 +1538,12 @@
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_white_flower": "2020-04-06 23:09:41 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-04-19 22:15:58 +0900"
     },
     "done": true
   },
